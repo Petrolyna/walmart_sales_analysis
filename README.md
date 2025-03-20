@@ -33,6 +33,9 @@ The data was cleaned to ensure consistency and accuracy:
 ### SQL queries
 The SQL queries used for analysis are located in the files with `sql` extension . These queries were used to extract and aggregate data from BigQuery for further analysis and visualization.
 
+### Visualization
+The visualizations for the analysis are located in the file labelled 'Dashboard 1'.
+
 ## 🔍 Findings  
 
 ### 🏷️ Sales Trends on Holidays vs. Non-Holidays  
